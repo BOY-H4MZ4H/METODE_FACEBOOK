@@ -10,8 +10,8 @@ import requests, re
 
 # TEAM XNSCODE PRIVATE ONLINE
 
-user = "100081753930726" # Masukan ID FB mu
-pw = "LoveuGullNawaz" # Masukan Sandi FB mu
+user = "" # Masukan ID FB mu
+pw = "" # Masukan Sandi FB mu
 
 def cek(): 
 	session=requests.Session()
