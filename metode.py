@@ -1,7 +1,7 @@
 import os, sys, re, requests, random
 
-sandi = "mansa1998@"
-id = "100064635131066"
+sandi = ""
+id = ""
 url1 = "https://m.facebook.com/"
 url2 = "m.facebook.com"
 ua = "Mozilla/5.0 (Linux; Android 5.0; ASUS_Z00AD Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]"
