@@ -1,4 +1,4 @@
-import os, sys, re, requests, random
+import os, sys, re, requests
 
 sandi = ""
 id = ""
