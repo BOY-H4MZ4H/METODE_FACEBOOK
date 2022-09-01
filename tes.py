@@ -1,3 +1,5 @@
+# METOD FACEBOOK VERSI 2
+
 import requests, re, random
 from rich import print as prints
 from rich.tree import Tree
